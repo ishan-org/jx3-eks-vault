@@ -22,7 +22,7 @@ spec:
     namespaceSubDomain: jenkins.
     tls:
       email: ""
-      enabled: true
+      enabled: false
       production: false
   repository: nexus
   secretStorage: vault
