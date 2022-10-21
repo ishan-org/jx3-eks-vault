@@ -23,7 +23,7 @@ spec:
     tls:
       email: ""
       enabled: true
-      production: true
+      production: false
   repository: nexus
   secretStorage: vault
   vault: {}
