@@ -8,6 +8,7 @@ spec:
     provider: https://github.com
     providerKind: github
     repositories:
+    - name: golan
     - name: golang-start
     - name: golang-start-1
     scheduler: in-repo
